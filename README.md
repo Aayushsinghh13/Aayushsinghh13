@@ -13,6 +13,4 @@
 
 - ⚡ Fun fact **I love solving LeetCode problems; it's like a puzzle for my brain!** [Leetcode]()
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
 
