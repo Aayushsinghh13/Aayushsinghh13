@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Ayush</h1>
-<h3 align="center">A Dedicated AI and Data Science student working on real-world solutions.</h3>
+<h3 align="center">A Dedicated Computer Engineering student working on real-world solutions.</h3>
 
 
 
